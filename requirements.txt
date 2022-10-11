@@ -1,2 +1,4 @@
 faker
 mimesis
+pymssql
+python-dotenv
