@@ -10,5 +10,6 @@ print(f'Meet {p.full_name()}, they are a(n) {p.occupation()} '
 # Now some random text strings
 t = Text()
 
-print(f'{t.quote()}')
-print(f'{t.words(5)}')
+print(t.quote())
+print(t.words(5))
+
